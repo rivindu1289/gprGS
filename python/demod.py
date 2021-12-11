@@ -1,3 +1,5 @@
+# file to simulate modulation (done on hardware), and show demodulation (done on software)
+
 import numpy as np
 import matplotlib.pyplot as plt
 

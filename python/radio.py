@@ -1,3 +1,5 @@
+# File to Read from 900 MHz radio
+
 import serial.tools.list_ports as port_list
 import serial
 ports = list(port_list.comports())
